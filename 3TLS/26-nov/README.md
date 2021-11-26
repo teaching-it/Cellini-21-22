@@ -10,6 +10,6 @@ Unicamente per il gruppo A, successivamente alla somministrazione del farmaco vi
 	- da 50 a 99: sufficiente;
 	- superiore o uguale a 100: ottima.
 
-### Consegne
+### Si richiede
 
-È richiesta la progettazione dell'algoritmo ed una implementazione in LibreOffice Calc.
+La progettazione dell'algoritmo ed una implementazione in LibreOffice Calc.
