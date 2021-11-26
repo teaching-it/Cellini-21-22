@@ -1,6 +1,6 @@
 # 19 Novembre 2021
 
-### Algoritmo su sufficienze ed insufficienze di una classe
+### Algoritmo per il calcolo del numero di valutazioni sufficienti ed insufficienti
 
 Dati i voti riportati dagli studenti di una classe in una verifica, stabilire quanti sono sufficienti e quanti insufficienti.
 
