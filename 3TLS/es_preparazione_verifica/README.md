@@ -17,6 +17,8 @@ Inoltre, qualora il costo di almeno 2 prodotti sia superiore a 2,50 €, si potr
 
 Calcolare il costo effettivamente sostenuto da Mario.
 
+Calcolare, inoltre, il prezzo massimo tra i prodotti acquistati.
+
 ### Si richiede
 
 La progettazione dell'algoritmo ed una implementazione in LibreOffice Calc.
