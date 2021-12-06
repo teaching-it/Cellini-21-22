@@ -21,3 +21,7 @@ Inoltre, qualora il costo di almeno 2 prodotti sia superiore a 2,50 €, si potr
 ### Si richiede
 
 La progettazione dell'algoritmo ed una implementazione in LibreOffice Calc.
+
+### Soluzioni
+
+Come si può notare, è già presente il file **implementazione.ods** contenente la soluzione svolta in LibreOffice Calc. Domani, martedì 7 dicembre, pubblicherò inoltre il flowchart.
