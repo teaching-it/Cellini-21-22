@@ -15,9 +15,8 @@ Mario si reca presso l'emporio XYZ ed acquista 5 prodotti:
 Solo per quest'oggi il negoziante applica uno sconto del 10% qualora la spesa totale superi 10 €.
 Inoltre, qualora il costo di almeno 2 prodotti sia superiore a 2,50 €, si potrà beneficiare di un ulteriore 5% di sconto.
 
-Calcolare il costo effettivamente sostenuto da Mario.
-
-Calcolare, inoltre, il prezzo massimo tra i prodotti acquistati.
+	1. Calcolare il costo effettivamente sostenuto da Mario.
+	2. Calcolare, inoltre, il prezzo massimo tra i prodotti acquistati.
 
 ### Si richiede
 
