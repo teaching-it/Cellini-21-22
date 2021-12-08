@@ -24,4 +24,4 @@ La progettazione dell'algoritmo ed una implementazione in LibreOffice Calc.
 
 ### Soluzioni
 
-Come si può notare, è già presente il file **soluzione.ods** contenente la soluzione svolta in LibreOffice Calc. Domani, martedì 7 dicembre, pubblicherò inoltre il flowchart.
+Sono entrambe presenti; si consiglia tuttavia di svolgere in autonomia l'esercizio e soltanto dopo consultarle.
