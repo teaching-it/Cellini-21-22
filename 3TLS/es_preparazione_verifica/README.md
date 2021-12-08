@@ -25,3 +25,5 @@ La progettazione dell'algoritmo ed una implementazione in LibreOffice Calc.
 ### Soluzioni
 
 Sono entrambe presenti; si consiglia tuttavia di svolgere in autonomia l'esercizio e soltanto dopo consultarle.
+
+Il file soluzione.drawio deve essere aperto con l'applicazione online [diagrams.net](https://app.diagrams.net/).
