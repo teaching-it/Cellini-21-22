@@ -1,6 +1,4 @@
-# 06 Dicembre 2021
-
-## Esercizio in preparazione alla verifica del 10/12/2021.
+# 10 Dicembre 2021
 
 ### Algoritmo per il calcolo di sconti su prodotti alimentari
 
