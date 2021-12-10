@@ -21,9 +21,3 @@ Inoltre, qualora il costo di almeno 2 prodotti sia superiore a 2,50 €, si potr
 ### Si richiede
 
 La progettazione dell'algoritmo ed una implementazione in LibreOffice Calc.
-
-### Soluzioni
-
-Sono entrambe presenti; si consiglia tuttavia di svolgere in autonomia l'esercizio e soltanto dopo consultarle.
-
-Il file soluzione.drawio deve essere aperto con l'applicazione online [diagrams.net](https://app.diagrams.net/).
