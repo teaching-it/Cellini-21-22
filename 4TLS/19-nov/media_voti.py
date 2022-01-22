@@ -7,6 +7,8 @@ Dati i voti di 3 prove di uno studente, calcolare la media aritmetica.
 # Nb. in Python per convenzione le costanti sono definite in uppercase
 N_VOTI = 3
 
+print('hello')
+
 # Dati in input
 voto1 = float(input('Voto n. 1: '))
 voto2 = float(input('Voto n. 2: '))
