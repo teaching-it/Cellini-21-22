@@ -29,4 +29,4 @@ print(summary)
 op = int(input('Operazione: '))
 
 assert 1 <= op <= 5, 'Operatore errato!'
-		
+
