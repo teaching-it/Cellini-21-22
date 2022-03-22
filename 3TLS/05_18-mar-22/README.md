@@ -1,6 +1,6 @@
 # 18 Marzo 2022
 
-## Dall'esercizio al codice/algoritmo, passando per il diagramma di flusso
+## Dall'esercizio al codice Python, passando per il diagramma di flusso
 
 ### Esercizio: Calcolo di sconti su prodotti alimentari
 
