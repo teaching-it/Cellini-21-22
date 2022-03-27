@@ -25,8 +25,12 @@ Inoltre, qualora il costo di almeno 2 prodotti sia superiore a 2,50 €, si potr
 
 ### Note
 
+L'esercizio è già stato affrontato durante la [precedente UDA](https://github.com/teaching-it/Cellini-21-22/blob/main/3TLS/04_10-dic-21) di terza.
+
 All'interno del file [soluzione.drawio](https://github.com/teaching-it/Cellini-21-22/blob/main/3TLS/04_10-dic-21/soluzione.drawio) è presente il diagramma di flusso che può essere importato all'interno della Web App [Diagrams](https://app.diagrams.net/) e che servirà da base per l'implementazione del codice Python.
 
 Per effettuare il download del file cliccare su **Raw** e, nella schermata successiva, digitare Ctrl+s per salvare il file localmente.
 
 ![Howto download a file from Github](https://github.com/teaching-it/Cellini-21-22/blob/main/3TLS/05_18-mar-22/download_soluzione-drawio.png "Howto download a file from Github")
+
+Il codice Python definitivo è stato presentato durante la lezione del [25-mar-22](https://github.com/teaching-it/Cellini-21-22/blob/main/3TLS/06_25-mar-22).
